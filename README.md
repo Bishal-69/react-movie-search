@@ -6,12 +6,17 @@ This project was built to practice React basics like components, props, and hook
 
 ---
 
+
+## 🌐 Live Demo
+👉 [react-movie-search-rust.vercel.app](https://react-movie-search-rust.vercel.app)
+
+
 ## 🚀 Features
-- Fetches data from an external **API**  
-- Uses **components** to display data  
-- State management with `useState`  
-- Side effects with `useEffect`  
-- Data passed between components using **props**
+- 🔍 Search movies in real-time  
+- 🎞️ Fetch data from TMDb API  
+- ⚡ Built with **Vite** for speed  
+- 📱 Fully responsive UI  
+- 🧩 Clean component structure  
 
 ---
 
@@ -26,5 +31,6 @@ to fetch movie details dynamically.
 - **JavaScript**  
 - **CSS**  
 - **TMDb API**  
+
 
 
